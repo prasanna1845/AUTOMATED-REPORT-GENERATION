@@ -92,3 +92,5 @@ Displays the plot window.
 
 ✅ Output:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/603162d6-f5e4-4a61-aad5-f696160c18cf" />
+
